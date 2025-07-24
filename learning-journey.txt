@@ -1,2 +1,2 @@
 Learning journey to become a software engineer
-* ReactJs
+* JavaScript Ecosystem
